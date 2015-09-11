@@ -4,7 +4,7 @@
   "description": "Exports a SHA1 function that uses node's crpyto module under the hood",
   "main": "lib/sha1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -12,10 +12,15 @@
   },
   "keywords": [
     "sha1",
-    "crypto"
+    "crypto",
+    "hash",
+    "digest",
+    "stream",
+    "buffer",
+    "string"
   ],
   "author": "Michael Leaney <leahcimic@gmail.com>",
-  "license": "BSD",
+  "license": "ISC",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/leahciMic/node-sha1/issues"
