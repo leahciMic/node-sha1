@@ -24,5 +24,8 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/leahciMic/node-sha1/issues"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.2"
   }
 }
