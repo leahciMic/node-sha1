@@ -1,4 +1,4 @@
-# node-sha1
+# node-sha1 [![Build Status](https://travis-ci.org/leahciMic/node-sha1.svg?branch=master)](https://travis-ci.org/leahciMic/node-sha1)
 
 Provides you with a convenient sha1 function that uses Node's crypto module
 under the hood.
